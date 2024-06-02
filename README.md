@@ -46,6 +46,10 @@
 
 ###
 
+<h3 align="left">📫 Email</h3><p>- gabrielnakata@live.com<br>- gabriel.nakata@aluno.ifsp.edu.br</p>
+
+###
+
 <h3 align="left">🎯   My Stats :</h3>
 
 ###
