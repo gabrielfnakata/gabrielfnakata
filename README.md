@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Hey! I'm Gabriel, a 21-year-old software enthusiast from Brazil. I have an intermediate level of English proficiency and a passion for programming in Java. I enjoy solving challenging problems and exploring new features. Feel free to connect and code with me. 🚀<br><br>- 🌱 I’m currently studying Information Systems at Instituto Federal de São Paulo.<br>- 🔭 I am looking for my first job/internship opportunity.<br>- 📚 I'm currently learning Java. ☕<br>- ⚡ In my free time I like going to the gym, making solutions on LeetCode, watching movies, animes and series, studying about language programming, listening to musics on Spotify, reading books and creating bugs! 🪰</p>
+<p align="left">Hey! I'm Gabriel, a 21-year-old software enthusiast from Brazil. I have an intermediate level of English proficiency and a passion for programming in Java. I enjoy solving challenging problems and exploring new features. Feel free to connect and code with me. 🚀<br><br>- 🌱 I’m currently studying Information Systems at Instituto Federal de São Paulo.<br>- 🔭 Actually, I am interning at Tools Gerenciamento e Engenharia.<br>- 📚 I'm currently learning Java. ☕<br>- ⚡ In my free time I like going to the gym, making solutions on LeetCode, watching movies, animes and series, studying about language programming, listening to musics on Spotify, reading books and creating bugs! 🪰</p>
 
 ###
 
