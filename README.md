@@ -13,7 +13,11 @@
 
 ###
 
-<p align="left">Hey! I'm Gabriel, a 21-year-old software enthusiast from Brazil. I have an intermediate level of English proficiency and a passion for programming in Java. I enjoy solving challenging problems and exploring new features. Feel free to connect and code with me. 🚀<br><br>- 🌱 I’m currently studying Information Systems at Instituto Federal de São Paulo.<br>- 🔭 Currently, I am interning at Tools Gerenciamento e Engenharia.<br>- 📚 I'm currently learning Java. ☕<br>- ⚡ In my free time I like going to the gym, making solutions on LeetCode, watching movies, animes and series, studying about language programming, listening to musics on Spotify, reading books and creating bugs! 🪰</p>
+<p align="left">Hey! I'm Gabriel, a 22-year-old software enthusiast from Brazil. I have an intermediate level of English proficiency and a passion for programming. I enjoy solving challenging problems and exploring new features. Feel free to connect and code with me. 🚀<br>
+  <br>- 🌱 I’m currently studying Information Systems at Instituto Federal de São Paulo.
+  <br>- 🔭 Currently, I am interning at Tools Gerenciamento e Engenharia.
+  <br>- 📚 I'm currently learning C# and Javascript. 💻
+  <br>- ⚡ In my free time I like going to the gym, making solutions on LeetCode, watching movies, animes and series, studying about language programming, listening to musics on Spotify, reading books and creating bugs! 🪰</p>
 
 ###
 
@@ -24,7 +28,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="c# logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="mysql logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
