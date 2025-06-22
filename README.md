@@ -15,7 +15,7 @@
 
 <p align="left">Hey! I'm Gabriel, a 22-year-old software enthusiast from Brazil. I have an intermediate level of English proficiency and a passion for programming. I enjoy solving challenging problems and exploring new features. Feel free to connect and code with me. 🚀<br>
   <br>- 🌱 I’m currently studying Information Systems at Instituto Federal de São Paulo.
-  <br>- 🔭 Currently, I am interning at Tools Gerenciamento e Engenharia.
+  <br>- 🔭 Currently, I am interning at Kiman Solutions.
   <br>- 📚 I'm currently learning C# and Javascript. 💻
   <br>- ⚡ In my free time I like going to the gym, making solutions on LeetCode, watching movies, animes and series, studying about language programming, listening to musics on Spotify, reading books and creating bugs! 🪰</p>
 
