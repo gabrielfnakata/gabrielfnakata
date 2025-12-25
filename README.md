@@ -13,10 +13,10 @@
 
 ###
 
-<p align="left">Hey! I'm Gabriel, a 22-year-old software enthusiast from Brazil. I have an intermediate level of English proficiency and a passion for programming. I enjoy solving challenging problems and exploring new features. Feel free to connect and code with me. 🚀<br>
+<p align="left">Hey! I'm Gabriel, a 23-year-old software enthusiast from Brazil. I have an intermediate level of English proficiency and a passion for programming. I enjoy solving challenging problems and exploring new features. Feel free to connect and code with me. 🚀<br>
   <br>- 🌱 I’m currently studying Information Systems at Instituto Federal de São Paulo.
   <br>- 🔭 Currently, I am interning at Kiman Solutions.
-  <br>- 📚 I'm currently learning C# and Javascript. 💻
+  <br>- 📚 I'm currently improving my Java, React and Docker skills. 💻
   <br>- ⚡ In my free time I like going to the gym, making solutions on LeetCode, watching movies, animes and series, studying about language programming, listening to musics on Spotify, reading books and creating bugs! 🪰</p>
 
 ###
@@ -26,23 +26,10 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="c# logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40" alt="sql server" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain-wordmark.svg" height="40" alt="sqlite" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-light.svg" width="75"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="75"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="75"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="75"></a>
 </div>
 
 ###
@@ -53,21 +40,12 @@
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-freitas-nakata-24b712220/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielfnakata/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/GabrielNakata/)
 
 ###
 
-<h3 align="left">📫 Email</h3><p>- gabrielnakata@live.com<br>- gabriel.nakata@aluno.ifsp.edu.br</p>
-
-###
-
-<h3 align="left">🎯   My Stats :</h3>
-
-###
-
-<!-- GithubStats -->
-![gabrielfnakata GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfnakata&show_icons=true&theme=gotham)
+<h3 align="left">📫 Email</h3>
+<p>- gabrielnakata@live.com<br>- gabriel.nakata@aluno.ifsp.edu.br</p>
 
 ###
 
