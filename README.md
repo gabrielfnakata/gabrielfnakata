@@ -13,10 +13,10 @@
 
 ###
 
-<p align="left">Hey! I'm Gabriel, a 23-year-old software enthusiast from Brazil. I have an intermediate level of English proficiency and a passion for programming. I enjoy solving challenging problems and exploring new features. Feel free to connect and code with me. 🚀<br>
+<p align="left">Hey! I'm Gabriel, a 23-year-old software enthusiast from Brazil. I have an intermediate level of English proficiency and a passion for programming. I enjoy solving challenging problems and exploring new features. <br>
   <br>- 🌱 I’m currently studying Information Systems at Instituto Federal de São Paulo.
   <br>- 🔭 Currently, I am interning at Kiman Solutions.
-  <br>- 📚 I'm currently improving my Java, React and Docker skills. 💻
+  <br>- 📚 I use Java, React and Oracle SQL in my daily work.
   <br>- ⚡ In my free time I like going to the gym, making solutions on LeetCode, watching movies, animes and series, studying about language programming, listening to musics on Spotify, reading books and creating bugs! 🪰</p>
 
 ###
